@@ -2,5 +2,12 @@
     "name": "hellofreeworld",
     "description": "deploy dianbao to heroku",
     "keywords": ["dianbao"],
+    "success_url": "/",
     "repository": "https://github.com/qiangweihewu/siteproxy",
-    }
+    "env": {
+        "NODE_OPTIONS": "--tls-min-v1.0"
+    },
+    "website": "https://qiangweihewu.vercel.app",
+    "stack": "container"
+    
+}
