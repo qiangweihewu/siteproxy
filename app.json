@@ -1,5 +1,5 @@
 {
-    "name": "hellofreeworld",
+    "name": "webdianbao",
     "description": "deploy dianbao to heroku",
     "keywords": ["dianbao"],
     "success_url": "/",
